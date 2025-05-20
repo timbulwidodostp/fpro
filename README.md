@@ -1,6 +1,8 @@
 # fpro
 Financial Protection Indicators for Health Expenditures Use fpimpov and fpcata (fpro) With STATA 19
 
+https://www.youtube.com/watch?v=pMnKD2Dy-DQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
